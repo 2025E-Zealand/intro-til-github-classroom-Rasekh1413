@@ -1,4 +1,4 @@
-# MyFirstGitHubClassRoomConsoleApp60
+# My First GitHub ClassRoom - ConsoleApp60
 
 Det er et eksempel, hvor har Rasekh ændres nogle koder 😅
 
