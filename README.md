@@ -1,4 +1,7 @@
 # MyFirstGitHubClassRoomConsoleApp60
+
+Det er et eksempel, hvor har Rasekh ændres nogle koder 😅
+
 Et lille console app til at teste Github ClassRoom
 
 1) Clone dette projekt til din pc
